@@ -1,0 +1,32 @@
+.main-card {
+  border: 1px solid #f3c951;
+}
+
+.main-card button,
+.social-btn {
+  background: rgb(233, 233, 233) !important;
+  border: none !important;
+  color: #000 !important;
+}
+
+.main-card button:hover,
+.social-btn:hover {
+  background: rgb(54, 54, 54) !important;
+  color: #f3c951 !important;
+}
+
+.special-text {
+  color: black !important;
+  font-weight: bolder;
+  margin: 0 5px;
+  font-size: 18px;
+}
+
+.special-text:hover {
+  cursor: pointer;
+  text-decoration: underline;
+}
+
+.icon {
+  margin: 0 10px;
+}

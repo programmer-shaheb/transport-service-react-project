@@ -1,0 +1,15 @@
+.bg {
+  background: url("../../images/bg-2.jpg");
+  height: 862px;
+  width: 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  object-fit: cover;
+}
+
+@media (max-width: 425px) {
+  .bg {
+    height: 1300px;
+  }
+}

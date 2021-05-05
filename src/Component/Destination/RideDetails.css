@@ -1,0 +1,41 @@
+.ride-style {
+  background: rgb(233, 233, 233);
+}
+
+.rideDetails img {
+  width: 10%;
+}
+
+.rideDetails {
+  background: #fff;
+  padding: 10px;
+  border-radius: 10px;
+}
+
+.pickUp {
+  background: rgb(255, 151, 133);
+  color: #fff;
+  max-width: 100%;
+  padding: 10px 20px;
+  border-radius: 10px;
+}
+
+.btn-destination {
+  background: #fff !important;
+  border: none !important;
+  color: #000 !important;
+}
+
+.btn-destination:hover {
+  background: rgb(54, 54, 54) !important;
+  color: #f3c951 !important;
+}
+
+@media (max-width: 425px) {
+  .rideDetails h4 {
+    font-size: 15px;
+  }
+  .ride-style {
+    width: 310px;
+  }
+}

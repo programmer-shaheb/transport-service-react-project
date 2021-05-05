@@ -1,0 +1,52 @@
+.brand-name {
+  color: #f0b81d !important;
+  font-size: 3rem !important;
+  font-weight: bold !important;
+}
+
+li a {
+  color: #f0b81d !important;
+  font-size: 1.2rem;
+  font-weight: bolder;
+  transition: 0.4s ease-in;
+}
+
+li a:hover {
+  color: rgb(54, 54, 54) !important;
+}
+
+.login-btn {
+  background: rgb(54, 54, 54);
+  border-radius: 10px;
+}
+
+.login-btn:hover {
+  background: #000;
+  color: #ffd256;
+}
+
+.user-name {
+  font-size: 1.4rem;
+  color: #926c02 !important;
+  font-weight: bolder;
+  text-align: center;
+  margin: -4px 6px;
+  border-radius: 10px;
+  background: rgb(245, 245, 245);
+  padding: 10px;
+}
+
+.logout-btn {
+  background: rgb(54, 54, 54);
+  transition: 0.4s ease-in;
+  border-radius: 10px;
+  padding: 10px 20px;
+  color: #f0b81d !important;
+  font-size: 1.2rem;
+  font-weight: bolder;
+}
+
+.logout-btn:hover {
+  background: #000;
+  color: #ffd256;
+}
